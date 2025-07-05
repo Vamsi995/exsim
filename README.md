@@ -117,7 +117,7 @@ Swapping entire MoE blocks (router + experts) between layers confirms that close
 
 ## 📎 Resources
 
-- 📄 [Project Report](https://drive.google.com/file/d/1OdAHZ2vjIHe34CT3864xsk_MvYrVxhoh/view?usp=sharing)
+- 📄 [Project Report](./Report.pdf)
 - 📊 [Slides](https://docs.google.com/presentation/d/1JK6G4--TupMm0Y_bpSLhs93HhFvzDuwrkUw5C7wjdfM/edit?usp=sharing)
 
 
